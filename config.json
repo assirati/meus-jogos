@@ -10,8 +10,8 @@
     }
   },
   "algolia": {
-    "app_id": "OM9DT5TY28",
-    "api_key_search_only": "7beb3c1887d70fe9244d940f610b14bd",
+    "app_id": "MC0KIOUNZY",
+    "api_key_search_only": "c47c8128c5b2cd69d5ca06d185a49787",
     "index_name": "Jogos",
     "hits_per_page": 24
   }
